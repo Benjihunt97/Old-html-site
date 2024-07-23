@@ -1,0 +1,73 @@
+p {
+width: 325px;
+float: left;
+font-size: 30px;
+font-family: calibri;
+border: 0;
+border-width: 10px;
+margin: 5px;
+padding: 5px;
+background-color: white;
+color: black;
+}
+h1 {
+font-size: 28px;
+border: 1px solid green;
+border-width: 5px;
+margin: 5px;
+padding: 5px;
+outline: 2px solid black;
+width: 270px;
+background-color: white;
+color: black;
+}
+
+ul {
+border: 1px solid green;
+border-width: 20px;
+margin: 5px;
+padding: 20px;
+background-color: orange;
+outline: 2px solid black;
+width: 250px;
+position: fixed;
+top: 100px;
+right: 5px;
+}
+body {
+background-image: url("file:///C:/Users/Cassie/Desktop/benji/20180223_015038.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 1400px 850px;
+}
+p.footer {
+border: 1px solid black;
+border-width: 5px;
+margin: 5px;
+padding: 5px;
+position: fixed;
+bottom: 20px;
+right: 5px;
+width: 280px;
+font-size: 12pt;
+}
+a:link {
+text-decoration: none;
+color: blue;
+}
+a:hover {
+color: red;
+}
+p.home {
+position: fixed;
+top: 30px;
+right: 5px;
+border: 1px solid black;
+border-width: 2px;
+margin: 1px;
+padding: 1px;
+background-color: white;
+color: black;
+font-weight: bold;
+width: 505px;
+}
